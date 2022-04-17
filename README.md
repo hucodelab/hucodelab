@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hucodelab
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Machine Learning, Pandas, Supervised Learning, Unsupervised Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me hugovangulo@gmail.com
