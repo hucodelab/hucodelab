@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hucodelab
 - 👀 I’m interested in Data Science and Analytics
-- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: hugovangulo@gmail.com
 
 https://medium.com/@hugova
