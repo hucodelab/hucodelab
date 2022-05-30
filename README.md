@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hucodelab
 - 👀 I’m interested in Data Science and Analytics
 - 📫 How to reach me: hugovangulo@gmail.com
-
-https://medium.com/@hugova
   
 <!-- <div align="center">
   <a href="https://hucodelab.github.io/">
@@ -18,8 +16,6 @@ https://medium.com/@hugova
   <img align="center" alt="Hugo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Hugo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 </div>   -->
-  
-  ##
 
 <div> 
   <a href="https://www.youtube.com/channel/UCp6UiWY7hqb4cyu2bDOse8Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
