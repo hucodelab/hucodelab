@@ -26,7 +26,7 @@
   <a href="https://hucodelab.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>  
 
-## Portfolio Projects
+# Portfolio Projects
 
 * ### [e-commerce binary classification with Starbucks Data](https://github.com/hucodelab/ML_retail_industry2/blob/master/ML_model_retail_industry.ipynb)
 
