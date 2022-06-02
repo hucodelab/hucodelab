@@ -26,8 +26,30 @@
   <a href="https://hucodelab.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>  
 
-# Portfolio Projects
+# Data Science Portfolio Projects
+
+## Machine Learning
 
 * ### [e-commerce binary classification with Starbucks Data](https://github.com/hucodelab/ML_retail_industry2/blob/master/ML_model_retail_industry.ipynb)
 
 This project shows the ETL and Machine Learning model building process to predict whether a client will accept an e-commerce offer. It contains a deploy on a webapp as well --> https://mlretail2.herokuapp.com/
+
+* ### [Comparison of binary classification machine learning algorithms to predict US population income data (>85% accuracy)](https://github.com/hucodelab/population_income_US/blob/master/scripts/analise_e_modelos.ipynb)
+
+This project shows the process of manipulating data and building a Machine Learning model to predict whether a US citizen has an income higher than $50,000 per year. The project compares the performance of 3 models: Random Forest, Random Forest with Grid Search (hyperparameter optimization), and logistic regression.
+
+## Deep Learning
+
+* ### [Soybean yield predictions in Paraná - BR using an artificial neural networks (Multilayer Perceptron - MLP) regression model](https://www.kaggle.com/code/hugovallejo/soy-productivity-prediction-from-climatology-data)
+
+This project shows the process of data manipulation and construction of a Deep Learning regression model trained with climatological data from the 20 largest soybean-producing municipalities in the state of Paraná - BR to make predictions of soybean productivity.
+
+* ### [Performance comparison of Street Number Recognition using neural networks models: Convolutional Neural Networks (CNN) and Multilayer Perceptron (MLP)](https://www.kaggle.com/code/hugovallejo/cnn-mlp-street-view-numbers-recognition)
+
+This project shows the process of data manipulation and Deep Learning classification model building trained to recognize Street numbers. The project compares the performance of two neural network models: Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN).
+
+## Data Analysis
+
+* ### [StackOverflow 2020 Survey Developer Data Analysis](https://github.com/hucodelab/StackOverflow_Survey_Study2020/blob/master/StackOverflow_Survey2020.ipynb)
+
+This project shows the process of extracting, manipulating, and analyzing data from the 2020 StackOverflow survey. The project contains visuals of the number of respondents by programming language, salaries, and developers' job satisfaction.
