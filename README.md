@@ -56,7 +56,7 @@ This project shows the process of data manipulation and Deep Learning classifica
 
 * ### [Brazilian elections' candidates Twitter data](http://www.presidenciaveis.turingusp.com.br/)
 
-This project shows metrics and indicators related to the twitter accounts of the main candidates of the Brazilian 2022 elections. The visualizations created in this project were deployed to a web application using DASH and REACT. This project was developed by [Turing USP] (https://github.com/turing-usp) and I contributed to the data processing and visuals generation.
+This project shows metrics and indicators related to the twitter accounts of the main candidates of the Brazilian 2022 elections. The visualizations created in this project were deployed to a web application using DASH and REACT. This project was developed by [Turing USP](https://github.com/turing-usp) and I contributed to the data processing and visuals generation.
 
 * ### [StackOverflow 2020 Survey Developer Data Analysis](https://github.com/hucodelab/StackOverflow_Survey_Study2020/blob/master/StackOverflow_Survey2020.ipynb)
 
