@@ -42,7 +42,7 @@ This project shows the process of manipulating data and building a Machine Learn
 
 * ### [LSTM model to predict Stock prices](https://github.com/turing-usp/nala_itau_2022/blob/merge_all/LSTM_petr.ipynb)
 
-This project shows the process of data manipulation and construction of a [LSTM model] (https://github.com/turing-usp/nala_itau_2022/blob/merge_all/LSTM_petr.ipynb) to predict whether a stock it's going to increase its market price or not. It was built a [feature selection model] (https://github.com/turing-usp/nala_itau_2022/blob/merge_all/compilado_quant_qual.ipynb) to select the best features for the LSTM model.
+This project shows the process of data manipulation and construction of a [LSTM model](https://github.com/turing-usp/nala_itau_2022/blob/merge_all/LSTM_petr.ipynb) to predict whether a stock it's going to increase its market price or not. It was built a [feature selection model](https://github.com/turing-usp/nala_itau_2022/blob/merge_all/compilado_quant_qual.ipynb) to select the best features for the LSTM model.
 
 * ### [Soybean yield predictions in Paraná - BR using an artificial neural networks (Multilayer Perceptron - MLP) regression model](https://www.kaggle.com/code/hugovallejo/soy-productivity-prediction-from-climatology-data)
 
@@ -64,8 +64,8 @@ This project shows the process of extracting, manipulating, and analyzing data f
 
 * ### [Airbnb Brazil Web Scrapping](https://github.com/hucodelab/airbnb_webscraping/blob/main/airbnb.ipynb)
 
-This project shows the scrapping (extraction) of Airbnb data from [Airbnb Brazil] (https://www.airbnb.com.br). It was possible to make a comparative analysis between accommodation's prices three different brazilian cities as well. This software was developed using the python library: BeautifulSoup.
+This project shows the scrapping (extraction) of Airbnb data from [Airbnb Brazil](https://www.airbnb.com.br). It was possible to make a comparative analysis between accommodation's prices three different brazilian cities as well. This software was developed using the python library: BeautifulSoup.
 
 * ### [Rotten Tomatoes Web Scrapping](https://github.com/hucodelab/Crawler-do-Rotten-Tomatoes/blob/master/rotten_tomatoes_4.ipynb)
 
-This project shows the scrapping (extraction) of Rotten Tomatoes data and it was possible to build a dataset using the data. The project was developed by using the python library: Selenium.
+This project shows the scrapping (extraction) of [Rotten Tomatoes](https://www.rottentomatoes.com) data and it was possible to build a dataset using the data. The project was developed by using the python library: Selenium.
