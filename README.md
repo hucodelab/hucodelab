@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hucodelab
-- 👀 I’m interested in Data Science and Analytics
+- 👀 I’m interested in Data Science, Business Intelligence and Finance
 - 📫 How to reach me: hugovangulo@gmail.com
   
 <!-- <div align="center">
