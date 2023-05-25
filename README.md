@@ -32,7 +32,7 @@
 
 * ### [e-commerce binary classification with Starbucks Data](https://github.com/hucodelab/ML_retail_industry2/blob/master/ML_model_retail_industry.ipynb)
 
-This project shows the ETL and Machine Learning model building process to predict whether a client will accept an e-commerce offer. It contains a deploy on a webapp as well --> https://mlretail2.herokuapp.com/
+This project shows the ETL and Machine Learning model building process to predict whether a client will accept an e-commerce offer. It was also made a deploy of the app.
 
 * ### [Comparison of binary classification machine learning algorithms to predict US population income data (>85% accuracy)](https://github.com/hucodelab/population_income_US/blob/master/scripts/analise_e_modelos.ipynb)
 
