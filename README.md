@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hucodelab . Hobbies: walking, talking, reading and studying.
+- 👋 Hi, I’m @hucodelab and my hobbies are: walking, talking, reading and studying.
 - 👀 I’m interested in Data Science, Business Intelligence and Finance
 - 📫 How to reach me: hugovangulo@gmail.com
 
