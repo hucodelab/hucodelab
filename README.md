@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @hucodelab
 - 👀 I’m interested in Data Science, Business Intelligence and Finance
 - 📫 How to reach me: hugovangulo@gmail.com
+
+Skills: Python, SQL, Cloud, AI, MS Excel
   
 <!-- <div align="center">
   <a href="https://hucodelab.github.io/">
