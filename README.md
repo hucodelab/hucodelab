@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hucodelab and my hobbies are: walking, talking, reading and studying.
-- 👀 I’m interested in Data Science, Business Intelligence and Finance
+- 👀 I’m interested in Data Engineering, Data Science, Business Intelligence and Financial Markets
 - 📫 How to reach me: hugovangulo@gmail.com
 
-Skills: Python, SQL, Cloud, AI, MS Excel
+Skills: Python, SQL, Cloud Computing, AI, MS Excel
   
 <!-- <div align="center">
   <a href="https://hucodelab.github.io/">
