@@ -28,7 +28,7 @@ Skills: Python, SQL, Cloud Computing, AI, Quant.
   <a href="https://hucodelab.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>  
 
-# Data Science Portfolio Projects
+# Data Portfolio Projects
 
 ## Machine Learning
 
