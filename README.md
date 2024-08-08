@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering, Data Science, Business Intelligence, Logistics and Financial Markets
 - 📫 How to reach me: hugovangulo@gmail.com
 
-Skills: Python, SQL, Cloud Computing, AI, Logistics, Quant.
+Skills: Python, SQL, PySpark, Cloud Computing, AI.
   
 <!-- <div align="center">
   <a href="https://hucodelab.github.io/">
