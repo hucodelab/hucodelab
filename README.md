@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hucodelab and my hobbies are: running, reading, acting, and studying.
-- 👀 I’m interested in Data Engineering, Data Science, Business Intelligence, Logistics and Financial Markets
+- 👋 Hi, I’m @hucodelab and my hobbies are: theater, reading, and studying.
+- 👀 I’m interested in Data Engineering, Analytics, Data Science, Business Intelligence, Logistics and Stock Markets.
 - 📫 How to reach me: hugovangulo@gmail.com
 
 Skills: Python, SQL, PySpark, Cloud Computing, AI.
