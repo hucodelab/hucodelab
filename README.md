@@ -30,6 +30,20 @@ Skills: Python, SQL, PySpark, Cloud Computing, AI.
 
 # Data Portfolio Projects
 
+## Data Engineering
+
+* ### [LatamFusion App: Leveraging the GDELT Dataset for investors (Factored Datathon 2024)](https://github.com/hucodelab/factored-datathon-2024-LatamFusion)
+
+A solution that empowers global investors to stay ahead of potential crises worldwide. The solution followed the Medallion Architecture and was built on Databricks and PySpark, it was used Databricks Workflows to orchestrate the pipelines. The solution was deployed as a web-based application using Streamlit, enabling users to interact with the data in near real-time and access the features. https://latamfusionapp.azurewebsites.net/
+
+* ### [Clankbots network: Video Games Stocks predictions (Itau Asset 2024)](https://github.com/turing-usp/itau_asset_2023)
+
+This project gathers data from multiple sources, including the Yahoo Finance API, web scraping of Twitch data, and collecting fundamental data on video game companies. We then organize and streamline this information through data pipelines. Finally, the data is processed using machine learning regression models to predict future stock prices, providing actionable insights for investors.
+
+* ### [Nala: investor bot (Itau Asset 2022)](https://github.com/turing-usp/nala_itau_2022)
+
+This project collects data from multiple sources, including web scraping of Reddit, macroeconomic data from Central Bank API, and the Yahoo Finance API (stock prices). We streamline and integrate this data through automated pipelines, then apply regression models to predict future stock prices of PETROBRAS, empowering investors with data-driven insights.
+
 ## Machine Learning
 
 * ### [e-commerce binary classification with Starbucks Data](https://github.com/hucodelab/ML_retail_industry2/blob/master/ML_model_retail_industry.ipynb)
